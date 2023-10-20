@@ -1,5 +1,7 @@
 ## Hard Bulls Baseball Club - Software and Tooling
 
+* Customizable Baseball Scoreboard ([source](https://github.com/hardbulls/baseball-scoreboard)) ([demo](https://hardbulls.github.io/baseball-scoreboard/)
+
 <!--
 
 **Here are some ideas to get you started:**
